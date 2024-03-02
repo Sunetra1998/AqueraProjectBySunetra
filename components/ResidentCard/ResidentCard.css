@@ -1,0 +1,15 @@
+.resident-card {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.resident-card h4 {
+  margin-top: 0;
+}
+
+.resident-card p {
+  margin: 5px 0;
+}
